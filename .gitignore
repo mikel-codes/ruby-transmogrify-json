@@ -1,0 +1,62 @@
+.idea/
+.DS_Store
+.vs/
+.test_results
+.rakeTasks
+vendor/
+.bundle/
+test/reports
+
+### *** required entries below ***
+###
+### Please do not add anything below this line, your changes will be overwritten
+###
+*.iws
+*.launch
+.externalToolBuilders/
+.DS.d74cb6fe
+__MACOSX/
+.nb-gradle/
+.project
+.settings/
+.history/
+atlassian-ide-plugin.xml
+nbactions.xml
+nbbuild/
+nbdist/
+nbproject/private/
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/43217
+!.vscode/extensions.json
+*.code-workspace
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+*.bak
+*.rbc
+*.swp
+*~
+.#*
+.rbx
+/.rdoc
+/TAGS
+/coverage
+/html
+/pkg
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+node_modules/
+
+
+
+
+###
+###                                                                                                                                                                                                                                  git#274967
+###
